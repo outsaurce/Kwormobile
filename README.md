@@ -1,2 +1,2 @@
 # Kwormobile
-his repository contains the apk for kwor mobile app
+this repository contains the apk for kwor mobile app
